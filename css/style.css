@@ -1,0 +1,14 @@
+.container-xxl{
+    width: 1110px;
+}
+
+.auth{
+    margin-top: 400px;
+}
+
+.msg{
+    margin-top: 5px;
+    border: 2px solid black ;
+    background-color: aquamarine;
+    color: black;
+}
